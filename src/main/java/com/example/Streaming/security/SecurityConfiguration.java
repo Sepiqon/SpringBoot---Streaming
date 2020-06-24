@@ -1,10 +1,7 @@
 package com.example.Streaming.security;
-
 import java.util.Collections;
-
 import javax.servlet.http.HttpServletRequest;
 import com.google.common.collect.ImmutableList;
-
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
